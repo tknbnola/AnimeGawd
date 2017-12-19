@@ -18,27 +18,36 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  AnimeGawd
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  This product is for the all-around anime lover and also the newly enticed anime patrons looking for more of a foundation.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+   This product is designed for users to get to know their favorite anime characters better by reading up on the character profiles and background information. 
+   The overall goal is the get users with a love or an interest in anime to find a place to anchor or cement that love for by utilizing this prodouct.
 
 ## Problem ##
   > Describe the problem your product solves.
+    For those that enjoy the occasional anime debate or just want to stay current on viable information, this product will surely provide tangible information to stand upon in any setting.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  The consumer ony needs to put in a query on the character in question and they will get back a profile and information to compound their knowledge with.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  As an avid anime lover, I'm glad that I have a tool like this at my fingertips to keep with me and use whenever I need.
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  All it requires is an input query of the character the users want information on and the rest will be handled by the process.
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  AnimeGawd is super simple to utilize, I learned more about my favorite character than I never would have known.
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.

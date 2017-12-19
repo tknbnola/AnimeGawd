@@ -1,14 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <link href=“https://fonts.googleapis.com/css?family=Lobster” rel=“stylesheet” type=“text/css”>
   <title></title>
   <script src="angular/angular.js"></script>
 </head>
 <body>
   <div ng-app="app">
+    <h1>Welcome to AnimeGawd</h1>
+    <p>Search Your Favorites Right Here!</p>
+      <input type="text" ng-model="text" id="search" placeholder="Enter name here">
+      <button ng-click="submit()" ng-controller="AppCtrl" method="post">Ask The AnimeGawd</button>
     <app />
   </div>
-  <script type="text/javascript" src="index.js"></script>
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"></script> -->
+  <script type="text/javascript" src="angular-client/index.js"></script>
   <script type="text/javascript" src="services/items.js"></script>
   <script type="text/javascript" src="components/app.js"></script>
   <script type="text/javascript" src="components/list.js"></script>
